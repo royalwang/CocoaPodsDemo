@@ -1,1 +1,0 @@
-../../JsonLite/objc/JsonLiteMetaData.h
